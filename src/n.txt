@@ -1,1 +1,4 @@
 git config --global user.email navii.garcha@gmail.com
+git config --global user.email navii.garcha@gmail.com
+git config --global user.email navii.garcha@gmail.com
+git config --global user.email navii.garcha@gmail.com
